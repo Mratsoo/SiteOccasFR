@@ -1,0 +1,10 @@
+#searchbar{
+    width: 550px;
+    border: 1pxsolidrgba(0,0,0,0.5);
+    background: rgba(255, 255, 255, 0.5);
+
+}
+
+#liste a{
+    text-decoration: none;
+}

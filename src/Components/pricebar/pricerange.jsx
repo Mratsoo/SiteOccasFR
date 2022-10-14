@@ -1,0 +1,2 @@
+import "./pricerange.css"
+
